@@ -1,0 +1,14 @@
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\bin\Debug\net8.0\ApiGitHub.exe
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\bin\Debug\net8.0\ApiGitHub.deps.json
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\bin\Debug\net8.0\ApiGitHub.runtimeconfig.json
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\bin\Debug\net8.0\ApiGitHub.dll
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\bin\Debug\net8.0\ApiGitHub.pdb
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.AssemblyInfoInputs.cache
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.AssemblyInfo.cs
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.dll
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\refint\ApiGitHub.dll
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.pdb
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ApiGitHub.genruntimeconfig.cache
+C:\Users\Claudinho\Desktop\Facul\Quarto Período\Sistemas distribuidos e mobile\API_GitHub\ApiGitHub\obj\Debug\net8.0\ref\ApiGitHub.dll
